@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-Paul Arungwa for students in the worldwide content version of CSE 210.
+Paul Arungwa a students in the worldwide content version of CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
