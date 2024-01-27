@@ -2,3 +2,35 @@ Question: What are you grateful for?
 Answer: i sat for exam
 Date: 07/01/2024
 
+Question: What are you grateful for?
+Answer: I ate rice and beans
+Date: 27/01/2024
+
+Question: How are you feeling right now?
+Answer: To take a nap
+Date: 27/01/2024
+
+Question: What are you grateful for?
+Answer: I ate rice
+Date: 27/01/2024
+
+Question: How are you feeling right now?
+Answer: Laughing
+Date: 27/01/2024
+
+Question: What are you grateful for?
+Answer: I ate rice
+Date: 27/01/2024
+
+Question: How are you feeling right now?
+Answer: nothing
+Date: 27/01/2024
+
+Question: What are you grateful for?
+Answer: cooking
+Date: 27/01/2024
+
+Question: How are you feeling right now?
+Answer: danicng
+Date: 27/01/2024
+

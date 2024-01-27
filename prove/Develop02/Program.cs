@@ -40,7 +40,7 @@ class Journal
     private int index; // The current index of the questions array
 
     // Constructor
-    public Journal(string fileName)
+   public Journal(string fileName)
     {
         this.fileName = fileName;
         // Initialize the questions array with some sample prompts
@@ -59,7 +59,7 @@ class Journal
     public string GetNextQuestion()
     {
         // Return the question at the current index and increment the index
-        return questions[index++];
+    return questions[index++];
     }
 
     // A method to create a new entry and save it to the file
